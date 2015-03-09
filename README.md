@@ -1,4 +1,7 @@
 # best-drink-ever
 
-##Ingredients:
-One half 
+Bourbon
+Gin
+Vodka
+1 dash of bitters
+
